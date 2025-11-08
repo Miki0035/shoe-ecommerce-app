@@ -21,7 +21,7 @@
 1. 👋 [Welcome](#welcome)
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
-4. 🌐 [Web version](#web)
+4. 🌐 [Web URL](#web)
 5. 🤸 [Quick Start](#quick-start)
 
 ## <a name="welcome"> 👋 Welcome </a>
